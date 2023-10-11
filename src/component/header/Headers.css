@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    width: 100%;
+    background: gray;
+}
+
+.logo{
+    font-size: 25px;
+  font-weight: 800;
+  color: white;
+}
+
+.log-reg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 0 20px 0 0;
+
+}
+
+
+.log-reg div{
+    cursor: pointer;
+    
+}
